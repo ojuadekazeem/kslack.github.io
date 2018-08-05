@@ -1,0 +1,301 @@
+li{
+	list-style: none;
+}
+.nav ul{
+	margin: 0px;
+	padding: 0px;
+}
+.nav ul li{
+	float:left;
+	width: 100px;
+	height: 40px;
+	background-color: white;
+	line-height:40px;
+	text-align;40px;
+	font: arial 15px;
+}
+.nav ul li a{
+	color:silver;
+	display: block;
+	text-decoration: none;
+}
+.nav ul li a:hover{
+	transform: scale(1.2); 
+}
+.nav ul li ul li{
+	display:none;
+	margin:-5px;
+}
+.nav ul li:hover ul li{
+	display:block;
+	background-color: white;
+	width: 200px;
+	height: 50px;
+}
+#frontiers{
+	background-color:#1A1938;
+	text-align:center;
+	color:white;
+	height:100px;
+	margin-top: 20px;
+	width: 100%
+}
+.logo{
+	padding-left: 100px;
+}
+.nav{
+	padding-left: 30px;
+}
+#register{
+	background-color:darkblue;
+	color:white;
+	text-align:center;
+	border-radius:3px;
+	background-size:60px; 
+	padding:15px; 
+}
+#project{
+	font-size:70px;
+	font-weight:bold;
+	color:#1A1938;
+	margin: 30px;
+}
+.you{
+	background-size:250px;
+	text-align:center;
+	clear:left; 
+	font:20px arial;
+}
+.get{
+	background-color:darkblue;
+	color:white;
+	text-align:center;
+	border-radius:5px;
+	background-size:60px; 
+	padding:15px; 
+	width:100px; 
+}
+.yet{
+	background-color:white;
+	color:blue;
+	text-align:center;
+	border-radius:5px;
+	background-size:60px; 
+	padding:15px; 
+	width:150px; 
+	margin-left: 150px;
+	padding: 20px;
+}
+.yet:hover{
+	transform: scale(0.8);
+}
+.com{
+	float: left;
+	margin: 0 20px;
+}
+.pro{
+	float: left;
+	padding:100px 20px 100px 20px;
+}
+.res{
+	float:left;
+	padding: 20px;
+}
+.ext{
+	margin:0px;
+	padding: 20px;
+	clear: right;
+}
+.all{
+	background-color:#1A1938;
+	height: 300px; 
+	text-align: center;
+}
+.copy{
+	float: left;
+}
+.first3{
+	margin: 0px;
+	display: flex;
+}
+.last3{
+	margin: 0px;
+	display: flex;
+}
+#text{
+	font:20px Tahoma;
+}
+#input{
+	height: 35px;
+	font:20px Tahoma;
+	border-color:#3A2958;
+	padding: 5px;  
+}
+.hub{
+	clear: left;
+}
+.main-section{
+	margin: 50px;
+	text-align: center;
+}
+#started{
+	background-color: blue;
+	border-radius: 5px;
+	color: white;
+	background-size:60px;
+	width: 75px;
+	padding: 10px;
+}
+.channels {
+	float: left;
+	margin: 20px;
+	margin-left: 50px;
+}
+.Try{
+	background-color: darkblue;
+	height: 200px;
+	text-align: center;
+	padding: 20px;
+}
+.Search{
+float: left;
+margin: 10px;
+text-align: justify-all;
+} 
+.Integrations{
+	float: left;
+	margin: 20px;
+	text-align: justify-all;
+} 
+.security{
+	float: left;
+	margin: 20px;
+	text-align: justify-all;
+}
+#learn {
+	clear:left;
+	align-items: middle;
+}
+.Built{
+	clear: left;
+}
+
+.one{
+border: 1px solid black;
+background-color: white;
+color: black;
+display: flex;
+height: 50px;
+width: 100px;
+}
+.two{
+border: 1px solid black;
+background-color: white;
+padding: 30px;
+color: black;
+height: 50px;
+width: 100px;
+float: left;
+}
+.three{
+border: 1px solid black;
+background-color: white;
+padding: 70px;
+color: black;
+height: 50px;
+width: 100px;
+float: left;
+}
+.four{
+border: 1px solid black;
+background-color: white;
+padding: 70px;
+color: black;
+height: 50px;
+width: 100px;
+float: left;
+}
+.five{
+border: 1px solid black;
+background-color: white;
+padding: 70px;
+color: black;
+height: 50px;
+width: 100px;
+float: left;
+}
+.six{
+border: 1px solid black;
+background-color: white;
+padding: 70px;
+color: black;
+height: 50px;
+width: 100px;
+float: left;
+}
+.main-built{
+background-color: silver;
+height: 700px;
+width:2000px;
+}
+.main-LVMH{
+	display: flex;
+}
+.LVMH{
+	height: 400px;
+	width: 500px;
+	float: left;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+.johns{
+	height: 400px;
+	width: 500px;
+	float: left;
+	margin-left:10px;
+	margin-top: 50px;
+}
+.list{
+	clear: left;
+}
+#lv{
+	border: 1px solid #F7F7F7;
+width:500px;
+}
+#jo{
+	border: 1px solid #F7F7F7;
+width:500px;
+}
+.list ul li{
+
+}
+.company{
+float: left;
+padding-left:50px;
+}
+.PRODUCT{
+float: left;
+padding-left:50px;
+}
+.Resources{
+float: left;
+padding-left:50px;
+}
+.EXTRAS{
+margin: 50px;
+padding-left:50px;
+}
+footer{
+	margin-top: 20px;
+	background-color: silver;
+	height: 100px;
+	text-align:center;
+	clear: left;
+}
+footer li{
+	float: left;
+	margin:20px;
+}
+select{
+	margin: 20px;
+}

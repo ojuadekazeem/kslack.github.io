@@ -44,6 +44,7 @@ li{
 	padding-left: 100px;
 }
 .nav{
+	width:100%;
 	padding-left: 30px;
 }
 #register{
@@ -236,7 +237,6 @@ float: left;
 .main-built{
 background-color: silver;
 height: 700px;
-width:100%;
 }
 .main-LVMH{
 	display: flex;

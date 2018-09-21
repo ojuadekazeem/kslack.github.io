@@ -236,7 +236,7 @@ float: left;
 .main-built{
 background-color: silver;
 height: 700px;
-width:2000px;
+width:100%;
 }
 .main-LVMH{
 	display: flex;
@@ -260,11 +260,11 @@ width:2000px;
 }
 #lv{
 	border: 1px solid #F7F7F7;
-width:500px;
+width:400px;
 }
 #jo{
 	border: 1px solid #F7F7F7;
-width:500px;
+width:400px;
 }
 .list ul li{
 
